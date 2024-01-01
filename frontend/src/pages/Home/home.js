@@ -156,19 +156,7 @@ const Home = () => {
                                 </div>
                             </Carousel>
                         </Col>
-                        <Col span={5} >
-                            <div class="right-banner image-promotion">
-                                <a href="https://cellphones.com.vn/samsung-galaxy-z-flip-4.html" class="right-banner__item">
-                                    <img src="https://cdn2.cellphones.com.vn/690x300,webp,q10/https://dashboard.cellphones.com.vn/storage/s20-fe-right-th555.jpg" alt="FOLD4 |FLIP4<br>Giá rẻ bất ngờ" loading="lazy" class="right-banner__img" />
-                                </a>
-                                <a href="https://cellphones.com.vn/iphone-14-pro-max.html" class="right-banner__item">
-                                    <img src="https://cdn2.cellphones.com.vn/690x300,webp,q10/https://dashboard.cellphones.com.vn/storage/right-ip14-pro-max-th66666.png" a lt="Lên đời điện thoại" loading="lazy" class="right-banner__img" />
-                                </a>
-                                <a href="https://cellphones.com.vn/samsung-galaxy-m14.html" class="right-banner__item">
-                                    <img src="https://cdn2.cellphones.com.vn/690x300,webp,q10/https://dashboard.cellphones.com.vn/storage/eight-m14-new-415.jpg" alt="Glaxy M14 5G" loading="lazy" class="right-banner__img" />
-                                </a>
-                            </div>
-                        </Col>
+                        
                     </Row>
                 </div >
 
