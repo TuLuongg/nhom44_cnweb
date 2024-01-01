@@ -88,7 +88,7 @@ function _Footer() {
             </div>
             <div style={{ textAlign: 'center' }}>
                 <Divider style={{ padding: 0 }} />
-                <p style={{ color: "#FFFFFF", fontSize: 13 }}>Copyright@ 2023 Created by GROUP89</p>
+                <p style={{ color: "#FFFFFF", fontSize: 13 }}>Copyright@ 2023 Created by GROUP44</p>
                 <p style={{ color: "#FFFFFF", fontSize: 13 }}>Điện thoại: (+84) 000.0000000 - (+84) 000.0000000</p>
             </div>
         </Footer>

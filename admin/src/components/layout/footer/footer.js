@@ -9,7 +9,7 @@ function _Footer(){
         <Footer style={{
             marginLeft: 230,
             textAlign: 'center'}}>
-            Copyright@ 2023 Created by team GROUP89
+            Copyright@ 2023 Created by team GROUP44
         </Footer>
     );
 }
