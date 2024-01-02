@@ -113,7 +113,7 @@ const Contact = () => {
                                         src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(10).webp" alt="avatar"
                                     />
                                     <h5 class="mb-3">Nguyễn Công Tú</h5>
-                                    <p>2004800</p>
+                                    <p>20204800</p>
                                     <p class="text-muted">
                                         <i class="fas fa-quote-left pe-2"></i>
                                         Kỹ thuật máy tính 02-K65
