@@ -72,12 +72,11 @@ const Contact = () => {
                                     <img class="rounded-circle shadow-1-strong mb-4"
                                         src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(1).webp" alt="avatar"
                                     />
-                                    <h5 class="mb-3">Nguyen Quang Thanh</h5>
-                                    <p>Co-Founder</p>
+                                    <h5 class="mb-3">Lương Xuân Tú</h5>
+                                    <p>20200549</p>
                                     <p class="text-muted">
                                         <i class="fas fa-quote-left pe-2"></i>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id
-                                        officiis hic tenetur quae quaerat ad velit ab hic tenetur.
+                                        Khoa học máy tính 06-K65
                                     </p>
                                     <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
                                         <li><i class="fas fa-star fa-sm"></i></li>
@@ -92,12 +91,11 @@ const Contact = () => {
                                     <img class="rounded-circle shadow-1-strong mb-4"
                                         src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(32).webp" alt="avatar"
                                     />
-                                    <h5 class="mb-3">Tran Duc Khanh Thien</h5>
-                                    <p>CEO</p>
+                                    <h5 class="mb-3">Phạm Văn Tú</h5>
+                                    <p>20205039</p>
                                     <p class="text-muted">
                                         <i class="fas fa-quote-left pe-2"></i>
-                                        Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-                                        suscipit laboriosam, nisi ut aliquid commodi.
+                                        Việt Nhật 04-K65
                                     </p>
                                     <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
                                         <li><i class="fas fa-star fa-sm"></i></li>
@@ -114,12 +112,11 @@ const Contact = () => {
                                     <img class="rounded-circle shadow-1-strong mb-4"
                                         src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(10).webp" alt="avatar"
                                     />
-                                    <h5 class="mb-3">Nguyen Van Truong</h5>
-                                    <p>Co-Founder</p>
+                                    <h5 class="mb-3">Nguyễn Công Tú</h5>
+                                    <p>2004800</p>
                                     <p class="text-muted">
                                         <i class="fas fa-quote-left pe-2"></i>
-                                        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-                                        praesentium voluptatum deleniti atque corrupti.
+                                        Kỹ thuật máy tính 02-K65
                                     </p>
                                     <ul class="list-unstyled d-flex justify-content-center text-warning mb-0">
                                         <li><i class="fas fa-star fa-sm"></i></li>
@@ -180,7 +177,7 @@ const Contact = () => {
                                         <ul class="list-unstyled">
                                             <li>
                                                 <i class="fas fa-map-marker-alt fa-2x text-primary"></i>
-                                                <p><small>350-352 Võ Văn Kiệt, Phường Cô Giang Quận 1, Thành phố Hồ Chí Minh</small></p>
+                                                <p><small>1 Đại Cồ Việt, Hai Bà Trưng, Hà Nội</small></p>
                                             </li>
                                             <li>
                                                 <i class="fas fa-phone fa-2x text-primary"></i>

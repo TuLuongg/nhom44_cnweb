@@ -427,7 +427,7 @@ const ProductDetail = () => {
                                 <i class="icondetail-doimoi"></i>
                               </div>
                               <p>
-                                Hư gì đổi nấy <b>12 tháng</b> tại Group89 (miễn
+                                Hư gì đổi nấy <b>12 tháng</b> tại Group44 (miễn
                                 phí tháng đầu) <a href="#"></a>
                                 <a title="Chính sách đổi trả">Xem chi tiết</a>
                               </p>
